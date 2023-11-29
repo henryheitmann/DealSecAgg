@@ -1,3 +1,29 @@
+.DS_Store
+.idea
+.idea/*
+
+data/*
+experiments/benchmark/*
+
+*.log
+
+wandb
+./*/wandb
+./*/*/wandb
+./*/*/*/wandb
+./*/*/*/*/wandb
+./*/*/*/*/*/wandb
+
+# data
+*.rar
+*.dat
+cifar-10-batches-py
+*.tar.gz
+*.zip
+*.json
+*.tar.bz2
+*.stats
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
