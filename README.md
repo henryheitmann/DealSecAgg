@@ -6,12 +6,14 @@ It uses an implementation of the [FedML](https://github.com/FedML-AI/FedML) fram
 
 To be able to run DealSecAgg, you need to have a working MPI like [openMPI](https://www.open-mpi.org/software/ompi/v2.0) installed.
 To install necessary dependencies we use the package manager *pip*. All dependencies are defined in the requirements.txt
+
 ```
 pip install -r requirements.txt
 ```
 
-The experiments can be run using the `run_dealsecagg_distributed_pytorch.sh` script.
+The experiments can be run using the `run_dealsecagg_distributed_pytorch.sh` script in the `experiments` folder.
 An example with 4 clients is given in the `run.sh` script.
 
 # Reference
-WIP
+
+Joshua Stock, Henry Heitmann, Janik Noel Schug, Daniel Demmler. 2024. DealSecAgg: Efficient Dealer-Assisted Secure Aggregation for Federated Learning. In *21st International Workshop on Trust, Privacy and Security in the Digital Society (TrustBus)*.
