@@ -16,4 +16,4 @@ An example with 4 clients is given in the `run.sh` script.
 
 # Reference
 
-Joshua Stock, Henry Heitmann, Janik Noel Schug, Daniel Demmler. 2024. DealSecAgg: Efficient Dealer-Assisted Secure Aggregation for Federated Learning. In *21st International Workshop on Trust, Privacy and Security in the Digital Society (TrustBus)*.
+Joshua Stock, Henry Heitmann, Janik Noel Schug, and Daniel Demmler. 2024. DealSecAgg: Efficient Dealer-Assisted Secure Aggregation for Federated Learning. In *Proceedings of the 19th International Conference on Availability, Reliability and Security (ARES '24)*. https://doi.org/10.1145/3664476.3670873
